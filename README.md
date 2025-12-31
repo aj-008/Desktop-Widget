@@ -84,5 +84,5 @@ The system is configured for a 320x240 ST7789 display. Modify `SCREEN_WIDTH` and
 
 ## License
 
-MIT (see 'LICENSE').
+MIT (see `LICENSE`).
 

@@ -2,7 +2,7 @@
  *
  *                          main.c
  *
- *     Author:    AJ Romeo
+ *     Author:  AJ Romeo
  *
  *     Main program managing multiple display modes with button
  *     navigation. Coordinates hardware initialization, user
